@@ -1,7 +1,13 @@
 @charset "UTF-8";
 
 body {
-    background-color: #e5ffed;
+  background-color: #ecfaff;
+  font-family: serif;
+}
+
+header {
+  background-color: #dce8ff;
+  padding:  1em;
 }
 
 a{
