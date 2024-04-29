@@ -58,11 +58,11 @@ h3::after {
   width: 60%;
 }
 
-ul, ol {
+ul {
   position: relative;
 }
 
-ul li, ol li {
+ul li {
   border-left: solid 6px #2d8fdd;
   margin-bottom: 3px;
   line-height: 1.5;
@@ -71,7 +71,12 @@ ul li, ol li {
 }
 
 .intro ul li {
-    text-decoration:underline;
+  border-left: solid 6px #2d8fdd;
+  margin-bottom: 3px;
+  line-height: 1;
+  padding: 0.5em;
+  list-style-type: none!important;
+  font-weight: bold;
 }
 
 .pdf ul li {
