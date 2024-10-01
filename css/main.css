@@ -1,14 +1,14 @@
 @charset "UTF-8";
 
 body {
-  background-color: #ecfaff;
+  background-color: #fffafa;
   font-family: serif;
   margin: 0;
 }
 
 header {
-  background-color: #dce8ff;
-  border-bottom: 1px blue solid;
+  background-color: rgb(158, 255, 223);
+  border-bottom: 1px green;
   margin-top: 0;
   margin-bottom: 0;
   padding-top: 5px;
@@ -19,12 +19,13 @@ header {
 }
 
 a {
+  color: rgb(5, 139, 5);
   transition: color 0.3s;
   text-decoration: none;
 }
 
 a:hover {
-    color: limegreen;
+    color: skyblue;
 }
 
 p {
@@ -46,14 +47,14 @@ h3 {
 
 h2::after {
   content: "";
-  border-top: 3px rgb(128, 207, 253) solid;
+  border-top: 3px rgb(102, 212, 100) solid;
   display: block;
   width: 75%;
 }
 
 h3::after {
   content: "";
-  border-top: 3px rgb(128, 207, 253) dotted;
+  border-top: 3px rgb(102,212,100) dotted;
   display: block;
   width: 60%;
 }
@@ -63,7 +64,7 @@ ul {
 }
 
 ul li {
-  border-left: solid 6px #2d8fdd;
+  border-left: solid 6px #09ad03;
   margin-bottom: 3px;
   line-height: 1.5;
   padding: 0.5em;
@@ -71,7 +72,7 @@ ul li {
 }
 
 .intro ul li {
-  border-left: solid 6px #2d8fdd;
+  border-left: solid 6px #09ad03;
   margin-bottom: 3px;
   line-height: 1;
   padding: 0.5em;
@@ -80,7 +81,7 @@ ul li {
 }
 
 .pdf ul li {
-  border-left: solid 6px #2d8fdd;
+  border-left: solid 6px #09ad03;
   margin-bottom: 3px;
   line-height: 1.5;
   padding: 0.5em;
@@ -94,7 +95,7 @@ table {
 }
 
 tr:nth-child(odd) {
-  background-color:  #aefaff;
+  background-color:  #a8eaae;
 }
 
 th,td {
