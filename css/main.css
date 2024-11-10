@@ -2,20 +2,23 @@
 
 body {
   background-color: white;
-  font-family: serif;
+  font-family: 游ゴシック;
   margin: 0;
 }
 
 header {
   background-color: rgb(158, 255, 223);
-  border-bottom: 1px green;
-  margin-top: 0;
-  margin-bottom: 0;
+  border-bottom: 1px solid green;
+  margin: 0;
   padding-top: 5px;
   padding-left: 8px;
   padding-bottom: 2px;
   padding-right: 0;
   font-weight: bold;
+}
+
+main {
+  padding: 0,1em,0,1em;
 }
 
 a {
@@ -29,8 +32,13 @@ a:hover {
 }
 
 p {
+  margin: 0;
   display: block;
   text-indent: 1em;
+}
+
+h1 {
+  margin: 0;
 }
 
 h2 {
