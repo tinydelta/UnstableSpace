@@ -2,8 +2,10 @@
 
 body {
   background-color: white;
-  font-family: 游ゴシック;
+  font-family: "游ゴシック",'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   margin: 0;
+  padding: 0;
+  line-height: 1.7;
 }
 
 header {
@@ -18,17 +20,31 @@ header {
 }
 
 main {
-  padding: 0,1em,0,1em;
+  padding: 0em 1em;
+}
+
+.wrap{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.footer {
+  margin-top: auto;
 }
 
 a {
-  color: rgb(5, 139, 5);
+  color: blue;
   transition: color 0.3s;
   text-decoration: none;
 }
 
 a:hover {
-    color: skyblue;
+  color: lightgreen;
+}
+
+a:visited {
+  color: blue;
 }
 
 p {
