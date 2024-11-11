@@ -2,7 +2,7 @@
 
 body {
   background-color: white;
-  font-family: "游ゴシック",'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  font-family: "游ゴシック","ヒラギノ角ゴ ProN",'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
   line-height: 1.7;
@@ -37,6 +37,7 @@ a {
   color: blue;
   transition: color 0.3s;
   text-decoration: none;
+  font-weight: bold;
 }
 
 a:hover {
@@ -68,10 +69,6 @@ h3 {
   margin-block-end: 0em;
 }
 
-.title {
-  color: black;
-}
-
 h2::after {
   content: "";
   border-top: 3px rgb(102, 212, 100) solid;
@@ -94,36 +91,17 @@ ul {
 ul li {
   border-left: solid 6px #09ad03;
   margin-bottom: 3px;
-  line-height: 1.5;
-  padding: 0.5em;
-  list-style-type: none!important;
-}
-
-.intro ul li {
-  border-left: solid 6px #09ad03;
-  margin-bottom: 3px;
-  line-height: 1;
-  padding: 0.5em;
-  list-style-type: none!important;
-  font-weight: bold;
-}
-
-.some ul li {
-  border-left: solid 6px #09ad03;
-  margin-bottom: 3px;
   line-height: 1;
   padding: 0.5em;
   list-style-type: none!important;
 }
 
-.pdf ul li {
+.nonbold ul li {
   border-left: solid 6px #09ad03;
   margin-bottom: 3px;
-  line-height: 1.5;
+  line-height: 1;
   padding: 0.5em;
   list-style-type: none!important;
-  font-weight: bold;
-  font-size: large;
 }
 
 table {
@@ -131,7 +109,7 @@ table {
 }
 
 tr:nth-child(odd) {
-  background-color:  #a8eaae;
+  background-color:  #d2ebd4;
 }
 
 th,td {
