@@ -1,22 +1,17 @@
 @charset "UTF-8";
 
 body {
-  background-color: white;
-  font-family: "游ゴシック","ヒラギノ角ゴ ProN",'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  background-color: #EFFFFF;
+  font-family: 'メイリオ', Meiryo, sans-serif;
   margin: 0;
   padding: 0;
-  line-height: 1.7;
+  line-height: 1.4;
 }
 
 header {
-  background-color: rgb(158, 255, 223);
-  border-bottom: 1px solid green;
+  border-bottom: 1px solid black;
   margin: 0;
-  padding-top: 5px;
-  padding-left: 8px;
-  padding-bottom: 2px;
-  padding-right: 0;
-  font-weight: bold;
+  padding: 1em 2em;
 }
 
 main {
@@ -34,22 +29,20 @@ main {
 }
 
 a {
-  color: blue;
   transition: color 0.3s;
   text-decoration: none;
-  font-weight: bold;
 }
 
 a:visited {
-  color: blue;
+  color: #00f;
 }
 
 a:hover {
-  color: lightgreen;
+  color: blue;
 }
 
 p {
-  margin: 0;
+  margin-bottom: .7em;
   display: block;
   text-indent: 1em;
 }
@@ -71,16 +64,16 @@ h3 {
 
 h2::after {
   content: "";
-  border-top: 3px rgb(102, 212, 100) solid;
+  border-top: 3px #b2b2b2 solid;
   display: block;
-  width: 75%;
+  width: 70%;
 }
 
 h3::after {
   content: "";
-  border-top: 3px rgb(102,212,100) dotted;
+  border-top: 3px #b2b2b2 dotted;
   display: block;
-  width: 60%;
+  width: 55%;
 }
 
 ul {
@@ -89,7 +82,8 @@ ul {
 }
 
 ul li {
-  border-left: solid 6px #09ad03;
+  border-left: solid 6px #b2b2b2;
+  font-weight: bold;
   margin-bottom: 3px;
   line-height: 1;
   padding: 0.5em;
@@ -97,7 +91,7 @@ ul li {
 }
 
 .nonbold ul li {
-  border-left: solid 6px #09ad03;
+  border-left: solid 6px #b2b2b2;
   margin-bottom: 3px;
   line-height: 1;
   padding: 0.5em;
@@ -109,7 +103,7 @@ table {
 }
 
 tr:nth-child(odd) {
-  background-color:  #d2ebd4;
+  background-color:  #CCCCCC;
 }
 
 th,td {
