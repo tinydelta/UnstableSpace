@@ -83,15 +83,6 @@ ul {
 
 ul li {
   border-left: solid 6px #b2b2b2;
-  font-weight: bold;
-  margin-bottom: 3px;
-  line-height: 1;
-  padding: 0.5em;
-  list-style-type: none!important;
-}
-
-.nonbold ul li {
-  border-left: solid 6px #b2b2b2;
   margin-bottom: 3px;
   line-height: 1;
   padding: 0.5em;
