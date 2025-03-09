@@ -1,1 +1,1 @@
-https://mapsto.github.io/<br>mapstoのホームページ
+https://mapsto.github.io/<br>mapstoのTOPページ
