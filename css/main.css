@@ -15,13 +15,16 @@ header {
 }
 
 main {
-  padding: 1.5em;
+  padding-top: 1em;
+  padding-left: 2em;
+  padding-right: 1.5em;
+  padding-bottom: 1em;
 }
 
 .wrap{
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 90vh;
 }
 
 .footer {
@@ -42,9 +45,10 @@ a:hover {
 }
 
 p {
-  margin-bottom: .7em;
+  margin-top: .5em;
+  margin-bottom: .5em;
   display: block;
-  text-indent: 1em;
+  text-indent: 0em;
 }
 
 h1 {
@@ -53,11 +57,11 @@ h1 {
 }
 
 h2 {
-  margin-left: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 h3 {
-  margin-left: 20px;
   margin-block-start: 0em;
   margin-block-end: 0em;
 }
@@ -78,7 +82,7 @@ h3::after {
 
 ul {
   position: relative;
-  padding-inline-start: 20px;
+  padding-inline-start: 0em;
 }
 
 ul li {

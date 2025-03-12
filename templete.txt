@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <title>●｜有限水源</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="og:site_name" content="有限水源">
+        <meta property="og:title" content="●">
+        <meta property="og:description" content="●">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://mapsto.github.io/●.html">
+        <link rel="stylesheet" href="/css/main.css">
+    </head>
+    <body>
+        <div class="wrap">
+            <header>
+                <h1>●</h1>
+                <span><a href="/index.html">TOP</a> ＞ ●</span>
+            </header>
+            <main>
+                <p>●</p>
+            </main>
+        </div>
+        <footer class="footer">
+            <p>◀<a href="/index.html">〈TOP〉に戻る</a></p>
+            Created by まぷすと
+        </footer>
+    </body>
+</html>
