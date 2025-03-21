@@ -1,1 +1,1 @@
-https://tinyspace.github.io/<br>微小のTOPページ
+https://tinydelta.github.io/tinyspace/<br>微小のTOPページ
