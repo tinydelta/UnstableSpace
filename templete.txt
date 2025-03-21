@@ -15,14 +15,14 @@
         <div class="wrap">
             <header>
                 <h1>●</h1>
-                <span><a href="/index.html">TOP</a> ＞ ●</span>
+                <span><a href="/tinyspace/index.html">TOP</a> ＞ ●</span>
             </header>
             <main>
                 <p>●</p>
             </main>
         </div>
         <footer class="footer">
-            <p>◀<a href="/index.html">〈TOP〉に戻る</a></p>
+            <p>◀<a href="/tinyspace/index.html">〈TOP〉に戻る</a></p>
             Created by 微小
         </footer>
     </body>
