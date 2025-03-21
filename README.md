@@ -1,1 +1,1 @@
-https://mapsto.github.io/<br>mapstoのTOPページ
+https://tinydelta.github.io/<br>微小のTOPページ
