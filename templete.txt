@@ -1,28 +1,26 @@
 <!DOCTYPE html>
 <html lang="ja">
     <head>
-        <title>●｜Unstable Space</title>
+        <title>｜Unstable Space</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta property="og:site_name" content="Unstable Space">
-        <meta property="og:title" content="●">
-        <meta property="og:description" content="●">
+        <meta property="og:title" content="">
+        <meta property="og:description" content="">
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://tinydelta.github.io/●.html">
-        <link rel="stylesheet" href="/tinyspace/css/main.css">
+        <meta property="og:url" content="https://tinydelta.github.io/UnstableSpace/">
+        <link rel="stylesheet" href="main.css">
     </head>
     <body>
         <div class="wrap">
             <header>
-                <h1>●</h1>
-                <span><a href="/tinyspace/index.html">TOP</a> ＞ ●</span>
+                <h1></h1>
+                <span><a href="index.html">TOP</a> ＞ </span>
             </header>
-            <main>
-                <p>●</p>
-            </main>
+            <main></main>
         </div>
         <footer class="footer">
-            <p>◀<a href="/tinyspace/index.html">〈TOP〉に戻る</a></p>
+            <p>◀<a href="index.html">〈TOP〉に戻る</a></p>
             Created by 微小
         </footer>
     </body>
