@@ -92,15 +92,3 @@ ul li {
   padding: 0.5em;
   list-style-type: none!important;
 }
-
-table {
-  border-collapse:  collapse;
-}
-
-tr:nth-child(odd) {
-  background-color:  #CCCCCC;
-}
-
-th,td {
-  padding: 5px 10px;
-}
